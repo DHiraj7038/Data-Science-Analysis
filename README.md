@@ -39,4 +39,4 @@ Top earning job roles include AI Scientist, AI Developer, and Computer Vision Re
 
 The US dominates as the top employee residence location
 
-screenhot of the dashboard:
+screenhot of the dashboard:https://github.com/DHiraj7038/Data-Science-Analysis/blob/main/Screenshot%202025-05-28%20150534.png
